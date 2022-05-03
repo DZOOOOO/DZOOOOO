@@ -1,8 +1,8 @@
 # Hello..! 👋
 ---
 
-## <center>  📔 BLOG </center>
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@dzpro0327)
+<!-- ## <center>  📔 BLOG </center>
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@dzpro0327) -->
 ## <center> 📪 Mail </center><br>
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&mailto:dzpro0327@naver.com)](mailto:dzpro0327@naver.com)
 
