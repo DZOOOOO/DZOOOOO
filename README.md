@@ -25,7 +25,7 @@
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-![webstorm](https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![webstorm](https://img.shields.io/badge/webstorm-4AA8D8?style=for-the-badge&logo=webstorm&logoColor=white)
 
 
 <!-- 
